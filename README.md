@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haythem Zaaber</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7C715&random=false&width=390&height=80&lines=Full+Stack+JS+developer+;Software+Engineering+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7C715&random=false&width=390&height=80&lines=Software+Engineering+Student+;Full+Stack+JS+developer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 
 - 🏫 I am a Software engineering Student at [The higher institute of applied sciences and technologies of Sousse](https://issatso.rnu.tn/)
 
-- 🌱 I’m currently learning **Computer Science and Software Engineering.**
+- 🌱 I’m currently learning **Next.js and NestJS.**
 
 - 🧑‍💻 I love using Software as a solution for every **Problem.**
 
