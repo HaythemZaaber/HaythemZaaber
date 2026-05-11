@@ -16,7 +16,7 @@
 
 
 
-- 🏫 I am a Software engineering Student at [The higher institute of applied sciences and technologies of Sousse](https://issatso.rnu.tn/)
+- 🧑‍💻 Software Engineer graduated from Higher Institute of Applied Sciences and Technology of Sousse (ISSATSo) with a National Engineering Diploma in Software Engineering.
 
 - 🌱 I’m currently learning **Next.js and NestJS.**
 
